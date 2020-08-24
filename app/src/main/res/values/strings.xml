@@ -2,4 +2,11 @@
     <string name="app_name">News App</string>
     <string name="news">News</string>
     <string name="api_key">68fceafffd564513a8083b36ff0b8d99</string>
+    <string name="title_serializedname">title</string>
+    <string name="description_serializedname">description</string>
+    <string name="author_serializedname">author</string>
+    <string name="url_serializedname">url</string>
+    <string name="imageurl_serializedname">imageurl</string>
+    <string name="top_headlines_for_you">Top headlines for you</string>
+    <string name="news_headlines">News Headlines</string>
 </resources>
